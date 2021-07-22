@@ -1,0 +1,14 @@
+[
+  {
+    "package": "healthyR",
+    "oncran": true
+  },
+  {
+    "package": "healthyR.data",
+    "oncran": true
+  },
+  {
+    "package": "healthyR.ts",
+    "oncran": true
+  }
+]

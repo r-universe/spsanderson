@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "healthyR"]
+	path = healthyR
+	url = https://github.com/spsanderson/healthyr
+	shallow = true
+	registered = true
+[submodule "healthyR.data"]
+	path = healthyR.data
+	url = https://github.com/spsanderson/healthyr.data
+	shallow = true
+	registered = true
+[submodule "healthyR.ts"]
+	path = healthyR.ts
+	url = https://github.com/spsanderson/healthyr.ts
+	shallow = true
+	registered = true
