@@ -8,6 +8,11 @@
 	url = https://github.com/spsanderson/healthyr
 	shallow = true
 	registered = true
+[submodule "healthyR.ai"]
+	path = healthyR.ai
+	url = https://github.com/spsanderson/healthyr.ai
+	shallow = true
+	registered = true
 [submodule "healthyR.data"]
 	path = healthyR.data
 	url = https://github.com/spsanderson/healthyr.data

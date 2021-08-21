@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "healthyR.ai",
+    "oncran": true
+  },
+  {
     "package": "healthyR.data",
     "oncran": true
   },
