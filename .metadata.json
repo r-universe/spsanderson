@@ -4,15 +4,19 @@
     "oncran": true
   },
   {
-    "package": "healthyR.ai",
-    "oncran": true
-  },
-  {
     "package": "healthyR.data",
     "oncran": true
   },
   {
     "package": "healthyR.ts",
     "oncran": true
+  },
+  {
+    "package": "healthyR.ai",
+    "oncran": true
+  },
+  {
+    "package": "healthyverse",
+    "oncran": false
   }
 ]

@@ -1,25 +1,30 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/spsanderson/universe
 	shallow = true
 	branch = HEAD
 [submodule "healthyR"]
 	path = healthyR
-	url = https://github.com/spsanderson/healthyr
-	shallow = true
-	registered = true
-[submodule "healthyR.ai"]
-	path = healthyR.ai
-	url = https://github.com/spsanderson/healthyr.ai
+	url = https://github.com/spsanderson/healthyR
 	shallow = true
 	registered = true
 [submodule "healthyR.data"]
 	path = healthyR.data
-	url = https://github.com/spsanderson/healthyr.data
+	url = https://github.com/spsanderson/healthyR.data
 	shallow = true
 	registered = true
 [submodule "healthyR.ts"]
 	path = healthyR.ts
-	url = https://github.com/spsanderson/healthyr.ts
+	url = https://github.com/spsanderson/healthyR.ts
+	shallow = true
+	registered = true
+[submodule "healthyR.ai"]
+	path = healthyR.ai
+	url = https://github.com/spsanderson/healthyR.ai
+	shallow = true
+	registered = true
+[submodule "healthyverse"]
+	path = healthyverse
+	url = https://github.com/spsanderson/healthyverse
 	shallow = true
 	registered = true
