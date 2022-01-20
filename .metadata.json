@@ -18,5 +18,8 @@
   {
     "package": "healthyverse",
     "oncran": false
+  },
+  {
+    "package": "TidyDensity"
   }
 ]

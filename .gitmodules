@@ -28,3 +28,8 @@
 	url = https://github.com/spsanderson/healthyverse
 	shallow = true
 	registered = true
+[submodule "TidyDensity"]
+	path = TidyDensity
+	url = https://github.com/spsanderson/TidyDensity
+	shallow = true
+	registered = true
