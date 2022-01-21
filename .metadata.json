@@ -20,6 +20,7 @@
     "oncran": false
   },
   {
-    "package": "TidyDensity"
+    "package": "TidyDensity",
+    "oncran": false
   }
 ]
