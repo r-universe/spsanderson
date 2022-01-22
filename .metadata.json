@@ -17,10 +17,10 @@
   },
   {
     "package": "healthyverse",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "TidyDensity",
-    "oncran": false
+    "oncran": true
   }
 ]
