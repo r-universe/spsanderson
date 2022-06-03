@@ -1,0 +1,14 @@
+[
+  {
+    "package": "hardhat",
+    "url": "https://github.com/tidymodels/hardhat",
+    "via": ["healthyR.ai", "recipes"],
+    "from": "healthyR.ai"
+  },
+  {
+    "package": "recipes",
+    "url": "https://github.com/tidymodels/recipes",
+    "via": ["healthyR.ai"],
+    "from": "healthyR.ai"
+  }
+]
