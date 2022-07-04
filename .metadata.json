@@ -22,5 +22,8 @@
   {
     "package": "TidyDensity",
     "oncran": true
-  }
+  },
+  {
+    "package": "BRVM",
+    "oncran": false
 ]
