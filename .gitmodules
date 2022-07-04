@@ -33,13 +33,3 @@
 	url = https://github.com/spsanderson/TidyDensity
 	shallow = true
 	registered = true
-[submodule "hardhat"]
-	path = hardhat
-	url = https://github.com/tidymodels/hardhat
-	shallow = true
-	registered = false
-[submodule "recipes"]
-	path = recipes
-	url = https://github.com/tidymodels/recipes
-	shallow = true
-	registered = false
