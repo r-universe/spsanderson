@@ -33,3 +33,8 @@
 	url = https://github.com/spsanderson/TidyDensity
 	shallow = true
 	registered = true
+[submodule "BRVM"]
+	path = BRVM
+	url = https://github.com/Koffi-Fredysessie/BRVM
+	shallow = true
+	registered = true
