@@ -25,5 +25,9 @@
   },
   {
     "package": "BRVM"
+  },
+  {
+    "package": "tidyAML",
+    "oncran": false
   }
 ]

@@ -38,3 +38,8 @@
 	url = https://github.com/Koffi-Fredysessie/BRVM
 	shallow = true
 	registered = true
+[submodule "tidyAML"]
+	path = tidyAML
+	url = https//github.com/spsanderson/tidyAML
+	shallow = true
+	registered = true
