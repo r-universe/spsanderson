@@ -28,6 +28,6 @@
   },
   {
     "package": "tidyAML",
-    "oncran": false
+    "oncran": true
   }
 ]
