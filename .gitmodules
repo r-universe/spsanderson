@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/spsanderson/universe
+	url = https://github.com/spsanderson/spsanderson.r-universe.dev
 	branch = HEAD
 [submodule "BRVM"]
 	path = BRVM
