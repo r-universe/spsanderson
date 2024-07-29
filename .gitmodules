@@ -5,6 +5,9 @@
 [submodule "BRVM"]
 	path = BRVM
 	url = https://github.com/Koffi-Fredysessie/BRVM
+[submodule "RandomWalker"]
+	path = RandomWalker
+	url = https://github.com/spsanderson/RandomWalker
 [submodule "TidyDensity"]
 	path = TidyDensity
 	url = https://github.com/spsanderson/TidyDensity
